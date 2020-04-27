@@ -23,8 +23,6 @@ Develop a CICD pipeline for microservice application with blue green deployment.
 
 - Lauch a AWS EC2 instance  AMI: Ubuntu Server 18.04 LTS  t2.medium
 
-![AWSEC2Jenkins](Images/1AWSEC2Jenkins.PNG)
-
 - Install required dependencies
 - Jenkins and required plugins in Jenkins (Blue Ocean, Pipeline AWS steps, Amazon ECR, Kubernetes)
 - Docker
