@@ -37,3 +37,9 @@ Develop a CICD pipeline for microservice application with blue green deployment.
 - Construct your pipeline in your GitHub repository.
 - Set up all the steps that your pipeline will include.
 - Configure a pipeline.
+
+4: Build Kubernetes cluster.
+
+5: Launching simple web app inside the Kubernetes cluster
+
+6: Validating deployed web app
