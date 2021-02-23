@@ -1,5 +1,3 @@
-# Final project of Udacity DevOps Nanodegree
-
 ## Project Description
 Develop a CICD pipeline for microservice application with blue green deployment.
 
